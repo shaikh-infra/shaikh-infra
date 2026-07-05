@@ -1,16 +1,27 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**shaikh-infra/shaikh-infra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://raw.githubusercontent.com/shaikh-infra/shaikh-infra/main/assets/sss-logo.png" width="120"/>
 
-Here are some ideas to get you started:
+# SOHEL SHAIKH
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Civil Engineering Student • Architecture • BIM • Structural Design
+
+Building modern spaces with engineering precision and timeless design.
+
+<br>
+
+<a href="https://shaikhinfra.framer.website">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/sohel-shaikh-9834350191sptYmY0MDZnamJi">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://www.instagram.com/s.s.s.0607">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+</div>
+
+---
