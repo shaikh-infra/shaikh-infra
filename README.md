@@ -23,7 +23,7 @@ Building modern spaces through engineering precision, architectural creativity a
 <img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 
-<a href="[https://mail.google.com/mail/?view=cm&fs=1&to=soyushaikh226@gmail.com](https://mail.google.com/mail/?view=cm&fs=1&to=soyushaikh226@gmail.com&su=Opportunity%20Discussion&body=Hello%20Sohel%2C%0A%0AI%20came%20across%20your%20portfolio%20and%20would%20like%20to%20connect%20regarding%20a%20potential%20opportunity.%0A%0A%5BAdd%20your%20thoughts%20here%5D%0A%0ABest%20Regards%2C%0A%5BYour%20Name%5D)">
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=soyushaikh226@gmail.com&su=Opportunity%20Discussion&body=Hello%20Sohel%2C%0A%0AI%20came%20across%20your%20portfolio%20and%20would%20like%20to%20connect%20regarding%20a%20potential%20opportunity.%0A%0A%5BAdd%20your%20thoughts%20here%5D%0A%0ABest%20Regards%2C%0A%5BYour%20Name%5D">
 <img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
@@ -129,7 +129,7 @@ LinkedIn
 Instagram
 </a>
 •
-<a href="[mailto:soyushaikh226@gmail.com](https://mail.google.com/mail/?view=cm&fs=1&to=soyushaikh226@gmail.com&su=Opportunity%20Discussion&body=Hello%20Sohel%2C%0A%0AI%20came%20across%20your%20portfolio%20and%20would%20like%20to%20connect%20regarding%20a%20potential%20opportunity.%0A%0A%5BAdd%20your%20thoughts%20here%5D%0A%0ABest%20Regards%2C%0A%5BYour%20Name%5D)">
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=soyushaikh226@gmail.com&su=Opportunity%20Discussion&body=Hello%20Sohel%2C%0A%0AI%20came%20across%20your%20portfolio%20and%20would%20like%20to%20connect%20regarding%20a%20potential%20opportunity.%0A%0A%5BAdd%20your%20thoughts%20here%5D%0A%0ABest%20Regards%2C%0A%5BYour%20Name%5D">
 Email
 </a>
 
