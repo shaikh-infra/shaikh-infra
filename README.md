@@ -1,6 +1,11 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/shaikh-infra/shaikh-infra/main/sss-logo.png" width="120" alt="SSS Logo"/>
+<img
+  src="https://raw.githubusercontent.com/shaikh-infra/shaikh-infra/main/sss-logo.png"
+  width="180"
+  alt="SSS Logo"
+  style="border-radius:24px;"
+/>
 
 # SOHEL SHAIKH
 
