@@ -118,18 +118,18 @@ Building modern spaces through engineering precision, architectural creativity a
 <p>
 
 <a href="https://shaikhinfra.framer.website" target="_blank">
-Portfolio
+  Portfolio
 </a>
 •
-<a href="https://www.linkedin.com/in/sohel-shaikh-5a9532325/" target="_blank">
+<a href="https://www.linkedin.com/in/sohel-shaikh-5a9532325/">
 LinkedIn
 </a>
 •
-<a href="https://github.com/shaikh-infra" target="_blank">
-GitHub
+<a href="https://www.instagram.com/s.s.s.0607">
+Instagram
 </a>
 •
-<a href="mailto:soyushaikh226@gmail.com" target="_blank">
+<a href="mailto:soyushaikh226@gmail.com">
 Email
 </a>
 
