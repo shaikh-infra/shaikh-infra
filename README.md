@@ -128,8 +128,6 @@ Email
 
 <div align="center">
 
-### "Designing spaces today that inspire generations tomorrow."
-
-⭐ Thanks for visiting my profile!
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:3b3b98,100:1e3c72&height=120&section=footer&text=Thanks%20for%20visiting!&fontSize=36&fontColor=ffffff&animation=fadeIn"/>
 
 </div>
