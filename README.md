@@ -1,17 +1,17 @@
 <div align="center">
 
-<img src="https://img.shields.io/badge/SHAIKH%20INFRASTRUCTURE-111111?style=for-the-badge&logo=vercel&logoColor=white"/>
+<img src="https://raw.githubusercontent.com/shaikh-infra/shaikh-infra/main/sss-logo.png" width="170" alt="SSS Logo"/>
+
 
 # SOHEL SHAIKH
 
-### <img src="https://img.shields.io/badge/SSS%20PORTFOLIO-111111?style=for-the-badge&logo=vercel&logoColor=white"/>
 Building modern spaces through engineering precision, architectural creativity and elegant digital experiences.
 
 <br>
 
 <p align="center">
 
-<a href="https://shaikhinfra.framer.website">
+<a href="https://shaikhinfra.framer.website" style="text-decoration:none;">
 <img src="https://img.shields.io/badge/▲%20PORTFOLIO-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
