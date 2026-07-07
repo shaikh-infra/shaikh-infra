@@ -1,17 +1,12 @@
 <div align="center">
 
-<img
-  src="https://raw.githubusercontent.com/shaikh-infra/shaikh-infra/main/sss-logo.png"
-  width="180"
-  alt="SSS Logo"
-  style="border-radius:24px;"
-/>
+<img src="https://raw.githubusercontent.com/shaikh-infra/shaikh-infra/main/sss-logo.png" width="170" alt="SSS Logo"/>
 
 # SOHEL SHAIKH
 
-### Civil Engineering Student • Architecture • BIM • Structural Design
+### <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=24&pause=1800&color=FFFFFF&center=true&vCenter=true&width=700&lines=Civil+Engineering+Student;Architecture+Designer;BIM+Enthusiast;Structural+Design+Learner;Next.js+Developer" alt="Typing SVG" />
 
-Building modern spaces with engineering precision and timeless design.
+Building modern spaces through engineering precision, architectural creativity and elegant digital experiences.
 
 <br>
 
@@ -19,7 +14,7 @@ Building modern spaces with engineering precision and timeless design.
 <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
-<a href="https://www.linkedin.com/in/sohel-shaikh-9834350191sptYmY0MDZnamJi">
+<a href="https://www.linkedin.com/in/sohel-shaikh-5a9532325/">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
@@ -27,6 +22,110 @@ Building modern spaces with engineering precision and timeless design.
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 
+<a href="mailto:soyushaikh226@gmail.com">
+<img src="https://img.shields.io/badge/Email-111111?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
 </div>
 
 ---
+
+# 👤 About Me
+
+- 🏗 Civil Engineering Student
+- 🏛 Passionate about Architecture & Modern Infrastructure
+- 📐 Learning BIM, Structural Design & Quantity Surveying
+- 💻 Building Premium Web Experiences with Next.js
+- 🎯 Future Builder & Developer
+
+---
+
+# 🛠 Tech Stack
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=nextjs,react,ts,tailwind,git,github,vscode,figma&theme=dark"/>
+
+</p>
+
+### Civil Engineering Software
+
+- AutoCAD
+- Revit
+- ETABS
+- SketchUp
+- Lumion
+- Twinmotion
+- STAAD Pro
+- BIM
+
+---
+
+# 🚀 Current Focus
+
+- 🌐 Personal Portfolio
+- 🏡 Luxury Residential Architecture
+- 🏗 Structural Design
+- 📐 BIM Workflow
+- 💼 Shaikh Infrastructure & Developers
+
+---
+
+# 📂 Featured Projects
+
+| Project | Description |
+|---------|-------------|
+| 🏡 Luxury Villa | Modern Residential Architecture |
+| 🌐 Portfolio Website | Next.js + Tailwind Portfolio |
+| 🏢 Future Projects | Coming Soon |
+
+---
+
+# 📊 GitHub Statistics
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=shaikh-infra&show_icons=true&theme=github_dark&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shaikh-infra&layout=compact&theme=github_dark&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=shaikh-infra&theme=github-dark&hide_border=true"/>
+
+</p>
+
+---
+
+# 🌱 Currently Learning
+
+- BIM
+- Structural Analysis
+- Advanced Next.js
+- Construction Management
+- Quantity Surveying
+
+---
+
+# 📫 Connect With Me
+
+<p align="center">
+
+<a href="https://shaikhinfra.framer.website">Portfolio</a> •
+<a href="https://www.linkedin.com/in/sohel-shaikh-5a9532325/">LinkedIn</a> •
+<a href="https://github.com/shaikh-infra">GitHub</a> •
+<a href="mailto:soyushaikh226@gmail.com">Email</a>
+
+</p>
+
+---
+
+<div align="center">
+
+### "Designing spaces today that inspire generations tomorrow."
+
+⭐ Thanks for visiting my profile!
+
+</div>
