@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/shaikh-infra/shaikh-infra/main/sss-logo.png" width="170" alt="SSS Logo"/>
+<img src="https://img.shields.io/badge/SHAIKH%20INFRASTRUCTURE-111111?style=for-the-badge&logo=vercel&logoColor=white"/>
 
 # SOHEL SHAIKH
 
@@ -48,7 +48,7 @@ Building modern spaces through engineering precision, architectural creativity a
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=nextjs,react,ts,tailwind,git,github,vscode,figma&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=nextjs,react,ts,tailwind,git,github,vscode&theme=dark"/>
 
 </p>
 
@@ -117,10 +117,10 @@ Building modern spaces through engineering precision, architectural creativity a
 
 <p align="center">
 
-<a href="https://shaikhinfra.framer.website">Portfolio</a> •
-<a href="https://www.linkedin.com/in/sohel-shaikh-5a9532325/">LinkedIn</a> •
-<a href="https://github.com/shaikh-infra">GitHub</a> •
-<a href="mailto:soyushaikh226@gmail.com">Email</a>
+<a href="https://shaikhinfra.framer.website" target="_blank">Portfolio</a> •
+<a href="https://www.linkedin.com/in/sohel-shaikh-5a9532325/" target="_blank">LinkedIn</a> •
+<a href="https://github.com/shaikh-infra" target="_blank">GitHub</a> •
+<a href="mailto:soyushaikh226@gmail.com" target="_blank">Email</a>
 
 </p>
 
