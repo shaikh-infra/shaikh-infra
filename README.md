@@ -10,20 +10,20 @@ Building modern spaces through engineering precision, architectural creativity a
 
 <br>
 
-<a href="https://shaikhinfra.framer.website">
-<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+<a href="https://shaikhinfra.framer.website" target="_blank">
+Portfolio
 </a>
-
-<a href="https://www.linkedin.com/in/sohel-shaikh-5a9532325/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+•
+<a href="https://www.linkedin.com/in/sohel-shaikh-5a9532325/" target="_blank">
+LinkedIn
 </a>
-
-<a href="https://www.instagram.com/s.s.s.0607">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+•
+<a href="https://github.com/shaikh-infra" target="_blank">
+GitHub
 </a>
-
-<a href="mailto:soyushaikh226@gmail.com">
-<img src="https://img.shields.io/badge/Email-111111?style=for-the-badge&logo=gmail&logoColor=white"/>
+•
+<a href="mailto:soyushaikh226@gmail.com" target="_blank">
+Email
 </a>
 
 </div>
