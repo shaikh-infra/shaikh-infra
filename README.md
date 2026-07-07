@@ -120,7 +120,7 @@ Instagram
 •
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:111111,100:444444&height=120&section=footer&text=Thanks%20for%20visiting!&fontSize=34&fontColor=ffffff"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:3b3b98,100:1e3c72&height=120&section=footer&text=Thanks%20for%20visiting!&fontSize=36&fontColor=ffffff&animation=fadeIn"/>
 
 </div>
 
