@@ -89,18 +89,15 @@ Building modern spaces through engineering precision, architectural creativity a
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=shaikh-infra&show_icons=true&theme=github_dark&hide_border=true"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=shaikh-infra&show_icons=true&theme=github_dark&hide_border=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shaikh-infra&layout=compact&theme=github_dark&hide_border=true"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shaikh-infra&layout=compact&theme=github_dark&hide_border=true"/>
 
 </p>
 
 <p align="center">
-
-<img src="https://streak-stats.demolab.com?user=shaikh-infra&theme=github-dark&hide_border=true"/>
-
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shaikh-infra&theme=github-dark&hide_border=true&bg_color=0d1117&color=ffffff&line=58a6ff&point=ffffff" />
 </p>
-
 ---
 
 # 🌱 Currently Learning
