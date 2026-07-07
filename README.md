@@ -4,30 +4,30 @@
 
 # SOHEL SHAIKH
 
-### <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=24&pause=1800&color=FFFFFF&center=true&vCenter=true&width=700&lines=Civil+Engineering+Student;Architecture+Designer;BIM+Enthusiast;Structural+Design+Learner;Next.js+Developer" alt="Typing SVG" />
-
+### <img src="https://img.shields.io/badge/SSS%20PORTFOLIO-111111?style=for-the-badge&logo=vercel&logoColor=white"/>
 Building modern spaces through engineering precision, architectural creativity and elegant digital experiences.
 
 <br>
 
 <p align="center">
 
-<a href="https://shaikhinfra.framer.website" target="_blank">
+<a href="https://shaikhinfra.framer.website">
 <img src="https://img.shields.io/badge/▲%20PORTFOLIO-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
-<a href="https://www.linkedin.com/in/sohel-shaikh-5a9532325/" target="_blank">
+<a href="https://www.linkedin.com/in/sohel-shaikh-5a9532325/">
 <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="https://www.instagram.com/s.s.s.0607" target="_blank">
+<a href="https://www.instagram.com/s.s.s.0607">
 <img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 
-<a href="mailto:soyushaikh226@gmail.com" target="_blank">
+<a href="mailto:soyushaikh226@gmail.com">
 <img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
+</p>
 </p>
 
 </div>
