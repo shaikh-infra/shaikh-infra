@@ -11,7 +11,7 @@ Building modern spaces through engineering precision, architectural creativity a
 
 <p align="center">
 
-<a href="https://shaikhinfra.framer.website">
+<a href="https://shaikhinfra.in">
 <img src="https://img.shields.io/badge/▲%20PORTFOLIO-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
@@ -106,7 +106,7 @@ Building modern spaces through engineering precision, architectural creativity a
 
 <p>
 
-<a href="https://shaikhinfra.framer.website" target="_blank">
+<a href="https://shaikhinfra.in" target="_blank">
   Portfolio
 </a>
 •
