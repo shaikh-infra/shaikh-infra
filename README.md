@@ -19,7 +19,7 @@ Building modern spaces through engineering precision, architectural creativity a
 <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="https://www.instagram.com/s.s.s.0607">
+<a href="https://www.instagram.com/sohel.076x">
 <img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 
@@ -114,7 +114,7 @@ Building modern spaces through engineering precision, architectural creativity a
 LinkedIn
 </a>
 •
-<a href="https://www.instagram.com/s.s.s.0607">
+<a href="https://www.instagram.com/sohel.076x">
 Instagram
 </a>
 •
